@@ -1,3 +1,10 @@
 TSEXPO
 ======
-TSEXPO is a website project based on
+
+Description
+-----------
+
+TSEXPO is a website project.
+
+
+
